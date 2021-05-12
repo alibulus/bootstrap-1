@@ -1,5 +1,7 @@
 # bootstrap-1
 
+Bu proje alıştırma amaçlıdır
+
 ## Ana sayfası
 
 
